@@ -4,7 +4,7 @@ This repo consists of Python code for solving sudoku puzzle using Deep Learning 
 ### Youtube Video: https://www.youtube.com/watch?v=6swOHzHyskc
 ###
 ## Sample outputs from Custom YOLOv3 model
-![Demo of Sudoku Solver](output/output-recorded-gif.gif)
+![](output/sudoku-solver-gif.gif)
 
 ## How to Run!!
 Step-1: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`<br>
