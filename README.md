@@ -1,10 +1,10 @@
 # Real-Time-Sudoku-Solver-OpenCV-and-Keras
 This repo consists of Python code for solving sudoku puzzle using Deep Learning and OpenCV in real time(Live Camera).
 
-### Youtube Video: https://www.youtube.com/watch?v=6swOHzHyskc
+###### Youtube Video: https://www.youtube.com/watch?v=6swOHzHyskc
 ###
 ## Sample outputs from Custom YOLOv3 model
-![](output/sudoku-solver-gif.gif)
+![Output](output/sudoku-solver-gif.gif)
 
 ## How to Run!!
 Step-1: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`<br>
