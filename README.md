@@ -5,9 +5,9 @@ This repo consists of Python code for solving sudoku puzzle using Deep Learning 
 ![Demo of Sudoku Solver](output/output-recorded-gif.gif)
 
 ## How to Run!!
-Step-1: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`
-Step-2: Directly run all cells of `Sudoku testing.ipynb` file. It does all the imports by itself.
-Step-3: Nothing else, just get your Sudoku puzzle infront of your camera and get the real-time solutions.
+Step-1: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`<br>
+Step-2: Directly run all cells of `Sudoku testing.ipynb` file. It does all the imports by itself.<br>
+Step-3: Nothing else, just get your Sudoku puzzle infront of your camera and get the real-time solutions.<br>
 Step-2: To stop the camera, click 'Q' on keybord.
 
 ## Note:
