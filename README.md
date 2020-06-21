@@ -4,7 +4,7 @@ Main Reference: [Anh Minh Tran](https://www.youtube.com/watch?v=uUtw6Syic6A&list
 
 ##### <div><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-color.png" width="25" height="25"> Linkedin: https://www.linkedin.com/in/snehit-vaddi-73a814158/</div>
 ## Sample outputs from Custom YOLOv3 model
-![Output](output/sudoku-solver-gif.gif)
+<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/output/output-gif.gif" width="400">
 
 ## How to Run!!
 Step-1: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`<br>
