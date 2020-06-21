@@ -1,5 +1,6 @@
 # Real-Time-Sudoku-Solver-OpenCV-and-Keras
-This repo consists of Python code for solving sudoku puzzle using Deep Learning and OpenCV in real time(Live Camera).
+This repo consists of Python code for solving sudoku puzzle using Deep Learning and OpenCV in real time(Live Camera).<br>
+Main Reference: [Anh Minh Tran](https://www.youtube.com/watch?v=uUtw6Syic6A&list=LLwC_qd6q9vEqDaxU3KdSgPw&index=2&t=236s)
 
 ##### <div><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-color.png" width="25" height="25"> Linkedin: https://www.linkedin.com/in/snehit-vaddi-73a814158/</div>
 ## Sample outputs from Custom YOLOv3 model
@@ -24,5 +25,4 @@ Solving Sudoku Part2: https://medium.com/@neshpatel/solving-sudoku-part-ii-9a701
 #### Code:
 Code Reference: https://github.com/tahaemara/real-time-sudoku-solver
 #### Youtube:
-Anh Minh Tran: https://www.youtube.com/watch?v=uUtw6Syic6A&list=LLwC_qd6q9vEqDaxU3KdSgPw&index=2&t=236s
 Taha Emara: https://www.youtube.com/watch?v=Q5F8FteU3OY
