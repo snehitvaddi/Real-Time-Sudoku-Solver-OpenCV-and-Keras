@@ -6,6 +6,10 @@ Main Reference: [Anh Minh Tran](https://www.youtube.com/watch?v=uUtw6Syic6A&list
 ## Sample outputs from Custom YOLOv3 model
 <img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/output/output-gif.gif" width="400">
 
+## Algorithim Used
+In general Sudoku is solved using Backtracking approch, where it is a bruteforce approch.<br>
+Here we are using **Greedy Best First Search approch**!! -> which an optimised version of Naive Back Tracking method ie; Chooses a cell with least number of possibilities to search next.
+
 ## How to Run!!
 Step-1: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`<br>
 Step-2: Directly run all cells of `Sudoku testing.ipynb` file. It does all the imports by itself.<br>
