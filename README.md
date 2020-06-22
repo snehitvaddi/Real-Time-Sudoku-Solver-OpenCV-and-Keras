@@ -21,7 +21,8 @@ I already trained my keras model to predict digits. You can try your custom mode
 
 ## References:
 #### Algorithim:
-For solving sudoku: https://norvig.com/sudoku.html
+For solving sudoku: https://norvig.com/sudoku.html<br>
+Tech With Tim: https://www.youtube.com/watch?v=lK4N8E6uNr4
 #### Theoretical:
 Sudoku extraction from image: https://medium.com/@neshpatel/solving-sudoku-part-ii-9a7019d196a2 (with python code)
 Solving Sudoku Part1: https://medium.com/@neshpatel/solving-sudoku-part-i-7c4bb3097aa7
