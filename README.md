@@ -14,7 +14,7 @@ Here we are using **Greedy Best First Search approch**!! -> which an optimised v
 ## How to Run!!
 Step-1: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`<br>
 Step-2: Directly run all cells of `Sudoku testing.ipynb` file. It does all the imports by itself.<br>
-Step-3: Nothing else, just get your Sudoku puzzle in front of your camera and solutions will be relayed over respective positions.<br>
+Step-3: Nothing else, just get your Sudoku puzzle in front of your camera and solutions will be relayed over their respective positions.<br>
 Step-2: To stop the camera, click 'Q' on keyboard.
 
 ## Note:
