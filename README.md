@@ -16,7 +16,10 @@ Step-1: Install all required libraries in `requirements.txt` or directly run `pi
 Step-2: Directly run all cells of `Sudoku testing.ipynb` file. It does all the imports by itself.<br>
 Step-3: Nothing else, just get your Sudoku puzzle in front of your camera and solutions will be relayed over their respective positions.<br>
 Step-2: To stop the camera, click 'Q' on keyboard.
-
+#####
+## Step By Step Explanation:
+* Reading image from real-time input or a video or an image.
+* Convert input image to black and white. Apply threshold to remove unwanted noice.
 ## Note:
 I already trained my keras model to predict digits. You can try your custom model to predict similarly!!
 
