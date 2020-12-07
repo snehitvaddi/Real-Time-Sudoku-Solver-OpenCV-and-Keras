@@ -12,10 +12,10 @@ In general Sudoku is solved using Backtracking approch, where it is a bruteforce
 Here we are using **Greedy Best First Search approch**!! -> which an optimised version of Naive Back Tracking method ie; Chooses a cell with least number of possibilities to search next.
 
 ## How to Run!!
-Step-1: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`<br>
-Step-2: Directly run all cells of `Sudoku testing.ipynb` file. It does all the imports by itself.<br>
-Step-3: Nothing else, just get your Sudoku puzzle in front of your camera and solutions will be relayed over their respective positions.<br>
-Step-2: To stop the camera, click 'Q' on keyboard.
+*Step-1*: Install all required libraries in `requirements.txt` or directly run `pip install -r requirements.txt`<br>
+*Step-2*: Directly run all cells of `Sudoku testing.ipynb` file. It does all the imports by itself.<br>
+*Step-3*: Nothing else, just get your Sudoku puzzle in front of your camera and solutions will be relayed over their respective positions.<br>
+*Step-4*: To stop the camera, click 'Q' on keyboard.
 
 ## Step By Step Explanation:
 |    Step      |   What's happening      |   Image      |
