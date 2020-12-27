@@ -46,4 +46,5 @@ Code Reference: https://github.com/tahaemara/real-time-sudoku-solver<br>
 Taha Emara: https://www.youtube.com/watch?v=Q5F8FteU3OY<br>
 
 ### Connect with Author
-🤝 [Linkedin](https://www.linkedin.com/in/snehitvaddi/)
+🤝 LinkedIn: [Lets Connect](https://www.linkedin.com/in/snehitvaddi/)
+📧 Email: [Ping me @ v.snehith999@gmail.com](v.snehith999@gmail.com)
