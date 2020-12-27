@@ -16,7 +16,7 @@ Here we are using **Greedy Best First Search approch**!! -> which an optimised v
 *Step-3*: Nothing else, just get your Sudoku puzzle in front of your camera and solutions will be relayed over their respective positions.<br>
 *Step-4*: To stop the camera, click 'Q' on keyboard.
 
-### 📑 Step By Step Explanation:
+### 📑 Step By Step Explanation
 |    Step      |   What's happening      |   Image      |
 |------------------|--------------|-------------------|
 |    Step -1 &nbsp;| Reading image from real-time input or a video or an image.|<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/1.jpg" width="300"> |
@@ -27,9 +27,9 @@ Here we are using **Greedy Best First Search approch**!! -> which an optimised v
 |    Step -6  &nbsp;| Input the predicted numbers into  `Sudoku Solving algorithm` and get the out put.| |
 |    Step -7  &nbsp;| Overlay the corresponding calculated results on to live image/video.| |
 
-### ✍ Note:
+### ✍ Note
 I had trained a custom model for Number prediction. You can use either the existing one or a model of your own.
-### 📝 References:
+### 📝 References
 ###### Algorithim:<br>
 For solving sudoku: https://norvig.com/sudoku.html<br>
 Tech With Tim: https://www.youtube.com/watch?v=lK4N8E6uNr4<br>
@@ -45,4 +45,5 @@ Code Reference: https://github.com/tahaemara/real-time-sudoku-solver<br>
 ###### Youtube:<br>
 Taha Emara: https://www.youtube.com/watch?v=Q5F8FteU3OY<br>
 
-### 🤝 Lets Connect on [Linkedin](https://www.linkedin.com/in/snehitvaddi/)
+### Connect with Author
+🤝 [Linkedin](https://www.linkedin.com/in/snehitvaddi/)
