@@ -30,20 +30,20 @@ Here we are using **Greedy Best First Search approch**!! -> which an optimised v
 ### ✍ Note:
 I had trained a custom model for Number prediction. You can use either the existing one or a model of your own.
 ### 📝 References:
-Algorithim: 
+###### Algorithim:<br>
 For solving sudoku: https://norvig.com/sudoku.html<br>
-Tech With Tim: https://www.youtube.com/watch?v=lK4N8E6uNr4
+Tech With Tim: https://www.youtube.com/watch?v=lK4N8E6uNr4<br>
 
-Theoretical:
-Sudoku extraction from image: https://medium.com/@neshpatel/solving-sudoku-part-ii-9a7019d196a2 (with python code)
-Solving Sudoku Part1: https://medium.com/@neshpatel/solving-sudoku-part-i-7c4bb3097aa7
-Solving Sudoku Part2: https://medium.com/@neshpatel/solving-sudoku-part-ii-9a7019d196a2
+###### Theoretical:<br>
+Sudoku extraction from image: https://medium.com/@neshpatel/solving-sudoku-part-ii-9a7019d196a2 (with python code)<br>
+Solving Sudoku Part1: https://medium.com/@neshpatel/solving-sudoku-part-i-7c4bb3097aa7<br>
+Solving Sudoku Part2: https://medium.com/@neshpatel/solving-sudoku-part-ii-9a7019d196a2<br>
 
-Code:
-Code Reference: https://github.com/tahaemara/real-time-sudoku-solver
+###### Code:<br>
+Code Reference: https://github.com/tahaemara/real-time-sudoku-solver<br>
 
-Youtube: 
-Taha Emara: https://www.youtube.com/watch?v=Q5F8FteU3OY
+###### Youtube:<br>
+Taha Emara: https://www.youtube.com/watch?v=Q5F8FteU3OY<br>
 
 ### 🤝 Lets Connect on
 [Linkedin](Linkedin: https://www.linkedin.com/in/snehitvaddi/)</div>
