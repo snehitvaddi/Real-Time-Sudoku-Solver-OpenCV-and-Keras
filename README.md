@@ -19,13 +19,13 @@ Here we are using **Greedy Best First Search approch**!! -> which an optimised v
 ### 📑 Step By Step Explanation:
 |    Step      |   What's happening      |   Image      |
 |------------------|--------------|-------------------|
-|    Step - 1 &nbsp;| Reading image from real-time input or a video or an image.|<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/1.jpg" width="300"> |
-|    Step - 2  &nbsp;| Convert input image to black and white. Apply threshold to remove unwanted noice. |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/2.png" width="300"> |
-|    Step - 3    &nbsp;  | Get boundry of largest contour ie: Outline of sudoku matrix. |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/3.png" width="300"> |
-|    Step - 4   &nbsp;| In each cell of sudoku matrix, detect if any number is there or not by finding contours. |<img src="ttps://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/5.png" width="300"> |
-|    Step - 5   &nbsp;| Predict those detected numbers |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/6.png" width="300"> |
-|    Step - 6  &nbsp;| Input the predicted numbers into  `Sudoku Solving algorithm` and get the out put.| |
-|    Step - 7  &nbsp;| Overlay the corresponding calculated results on to live image/video.| |
+|    Step -1 &nbsp;| Reading image from real-time input or a video or an image.|<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/1.jpg" width="300"> |
+|    Step -2  &nbsp;| Convert input image to black and white. Apply threshold to remove unwanted noice. |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/2.png" width="300"> |
+|    Step -3    &nbsp;  | Get boundry of largest contour ie: Outline of sudoku matrix. |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/3.png" width="300"> |
+|    Step -4   &nbsp;| In each cell of sudoku matrix, detect if any number is there or not by finding contours. |<img src="ttps://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/5.png" width="300"> |
+|    Step -5   &nbsp;| Predict those detected numbers |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/6.png" width="300"> |
+|    Step -6  &nbsp;| Input the predicted numbers into  `Sudoku Solving algorithm` and get the out put.| |
+|    Step -7  &nbsp;| Overlay the corresponding calculated results on to live image/video.| |
 
 ### ✍ Note:
 I had trained a custom model for Number prediction. You can use either the existing one or a model of your own.
