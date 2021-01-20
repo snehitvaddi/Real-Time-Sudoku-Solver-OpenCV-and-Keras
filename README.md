@@ -4,7 +4,7 @@ This repo consists of Python code for solving sudoku puzzle using Deep Learning 
 
 This project is solely inspired from **AnhMinhTran's** [Youtube Video](https://www.youtube.com/watch?v=uUtw6Syic6A&list=LLwC_qd6q9vEqDaxU3KdSgPw&index=2&t=236s).
 
-### 🛠 Sample outputs from Custom YOLOv3 model
+### 🛠 Sample outputs
 <img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/output/output-gif.gif" width="400">
 
 ### 🧠 Algorithim Used
