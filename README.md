@@ -26,7 +26,7 @@ Here we are using **Greedy Best First Search approch** (An optimised version of 
 |    Step-4: In each cell of sudoku matrix, detect if any number is there or not by finding contours. |<img src="ttps://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/5.png" width="300"> |
 |    Step-5: Predict those detected numbers |<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/step%20by%20step%20images/6.png" width="300"> |
 |    Step-6: Input the predicted numbers into  `Sudoku Solving algorithm` and get the out put.| |
-|    Step-7: Overlay the corresponding calculated results on to live image/video.| |
+|    Step-7: Overlay the corresponding calculated results on to live image/video.| <img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/output/output-gif.gif" width="200">|
 
 ### ✍ Note
 I had trained a custom model for Number prediction. You can use either the existing one or a model of your own.
