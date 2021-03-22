@@ -41,11 +41,12 @@ Solving Sudoku Part1: https://medium.com/@neshpatel/solving-sudoku-part-i-7c4bb3
 Solving Sudoku Part2: https://medium.com/@neshpatel/solving-sudoku-part-ii-9a7019d196a2<br>
 
 ###### Code:<br>
-Code Reference: https://github.com/tahaemara/real-time-sudoku-solver,<br> https://aakashjhawar.medium.com/sudoku-solver-using-opencv-and-dl-part-2-bbe0e6ac87c5<br>
+**Code Reference:** 
+* https://github.com/tahaemara/real-time-sudoku-solver
+* https://aakashjhawar.medium.com/sudoku-solver-using-opencv-and-dl-part-2-bbe0e6ac87c5<br>
 
 ###### Youtube:<br>
 Taha Emara: https://www.youtube.com/watch?v=Q5F8FteU3OY<br>
 
 ### Connect with Author
 🤝 LinkedIn: [Lets Connect](https://www.linkedin.com/in/snehitvaddi/)<br>
-📧 Email: [Ping me @ v.snehith999@gmail.com](v.snehith999@gmail.com)
