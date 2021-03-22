@@ -43,7 +43,7 @@ Solving Sudoku Part2: https://medium.com/@neshpatel/solving-sudoku-part-ii-9a701
 ###### Code:<br>
 **Code Reference:** 
 * https://github.com/tahaemara/real-time-sudoku-solver
-* https://aakashjhawar.medium.com/sudoku-solver-using-opencv-and-dl-part-2-bbe0e6ac87c5<br>
+* **https://aakashjhawar.medium.com/sudoku-solver-using-opencv-and-dl-part-2-bbe0e6ac87c5**<br>
 
 ###### Youtube:<br>
 Taha Emara: https://www.youtube.com/watch?v=Q5F8FteU3OY<br>
